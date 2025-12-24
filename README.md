@@ -1,5 +1,5 @@
 # coastal-seven-web-internship
-The goal of this repository is to:  Track daily progress in a professional manner  Apply theoretical concepts through hands-on coding  Maintain clean, readable, and version-controlled code  Demonstrate consistency and growth as a Frontend Developer Intern
+The goal of this repository is to:  Track daily progress in a professional manner  Apply theoretical concepts through hands-on coding  Maintain clean, readable, and version-controlled code  Demonstrate consistency and growth as a Frontend Web Developer Intern
 # Coastal Seven – Web Development Internship 🚀
 
 This repository documents my **day-wise learning, hands-on tasks, and mini projects**
